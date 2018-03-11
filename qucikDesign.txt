@@ -1,0 +1,5 @@
+Create a dynamic list class that displays contact names on the left and emails or numbers on the right.
+    HTML element will have class containers - the data will be stored in an array var in javascript and then written using the document.getElementClassname JS feature corresponding with class objects in the HTML file.
+Use a javascript function to toggle between numbers and email address with a menu option.
+Add color coordination green, yellow, dark yellow, and red - purpose unknown.
+Add hover function in css for displaying email, number, and other contact info.

@@ -1,0 +1,34 @@
+.wrapper {
+    font-family: Arial, sans-serif;
+    color: white;
+    width: 300px;
+    background-color: #212121;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-radius: 20px;
+    background: linear-gradient(#3E3E3E, #262626);
+}
+.contactapp {
+    text-align: left;
+    font-size: 18px;
+    padding: 16px;
+
+}
+.background1 {
+    background-color: #212121;
+}
+.background2 {
+    background-color: #1A1A1A;
+}
+.column1 {
+    border-right: 2px solid black;
+}
+
+.column2 {
+
+}
+
+.toggle {
+    text-align: right;
+    margin: 12px;
+}
